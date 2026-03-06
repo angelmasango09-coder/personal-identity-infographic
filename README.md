@@ -1,5 +1,5 @@
 # personal-identity-infographic
-##About Me
+## About Me
 I am Masango Andile Angel, a 21 year old IT student at the North West University.I value growth, discipline, and clarity in both my personal and academic journey.
 
 

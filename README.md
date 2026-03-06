@@ -1,9 +1,9 @@
 # personal-identity-infographic
-Personal identity infographic and logomark for CMPG212 assignment
+##About Me
+I am Masango Andile Angel, a 21 year old IT student at the North West University.I value growth, discipline, and clarity in both my personal and academic journey.
 
-This repository contains my personal identity infographic developed for the CMPG212 assignment.
 
-The infographic represents my identity through visual design and a personal logomark.
+This repository contains my personal identity infographic developed for the CMPG212 assignment. represents my identity through visual design and a personal logomark.
 
 ## Repository Contents
 - Infographic

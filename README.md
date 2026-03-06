@@ -8,6 +8,8 @@ The infographic represents my identity through visual design and a personal logo
 ## Repository Contents
 - Infographic
 - Personal logomark
+- Sketsches
+- Class activity and feedback
  
 
 ## Personal Focus
